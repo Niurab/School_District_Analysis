@@ -21,6 +21,7 @@ Percent Passing Reading moved from 86% to 85%.
 
 Percent Overall Passing moved from 65% to 64%.
 
+![image](https://user-images.githubusercontent.com/91093413/138619477-d5fabf71-8500-469c-a011-09d74d3062d9.png)
 
 
 ## School Summary
@@ -48,6 +49,8 @@ Thomas High is no longer in the top 10 after adjusting 9th grades scores with Na
 Thomas High School's math scores were removed from the 9th grade and all other scores remained the same.
 
 ![image](https://user-images.githubusercontent.com/91093413/138618471-00691556-43eb-4a87-b134-972bcfcf8e79.png)
+
+![image](https://user-images.githubusercontent.com/91093413/138619404-66cd999f-a684-4ef7-8584-8ce3e0cc5d45.png)
 
 
 
