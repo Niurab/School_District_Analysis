@@ -6,6 +6,8 @@
 
 The school district analysis conducted shows evidence of academic dishonesty specifically, reading and math grades for Thomas High school. The scores for the ninth graders appear to have been altered. As a result, the previous analysis must be adjusted by replacing the math and reading scores for the ninth grade students with "NaN" values and the analysis for the district repated.
 
+![image](https://user-images.githubusercontent.com/91093413/138619515-06f7008a-b32b-4c28-906a-a9f1b611b89b.png)
+
 
 # Results:
 
