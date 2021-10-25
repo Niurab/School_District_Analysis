@@ -21,7 +21,6 @@ Percent Passing Reading moved from 86% to 85%.
 
 Percent Overall Passing moved from 65% to 64%.
 
-![image](https://user-images.githubusercontent.com/91093413/138618356-2ef5d1d8-9ce0-4e42-8985-e444c14111fb.png)
 
 
 ## School Summary
@@ -42,6 +41,8 @@ Average Percent overall passing both Math and Reading decreased from 90.9% to 65
 ## Thomas High School
 
 Thomas High is no longer in the top 10 after adjusting 9th grades scores with NaNs.
+
+
 
 ## Math and reading score by grade
 
