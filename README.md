@@ -35,7 +35,6 @@ Percent Passing Reading at Thomas decreases from 97.3% to 69.7%.
 
 Average Percent overall passing both Math and Reading decreased from 90.9% to 65.1%.
 
-![image](https://user-images.githubusercontent.com/91093413/138618387-09470698-5517-4211-be41-ff6f859c5332.png)
 
 
 ## Thomas High School
