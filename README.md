@@ -21,6 +21,9 @@ Percent Passing Reading moved from 86% to 85%.
 
 Percent Overall Passing moved from 65% to 64%.
 
+![image](https://user-images.githubusercontent.com/91093413/138618222-db051f44-5285-4b06-8a83-0788f5964e47.png)
+
+
 
 ## School Summary
 
