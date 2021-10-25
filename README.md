@@ -6,6 +6,7 @@
 
 The school district analysis conducted shows evidence of academic dishonesty specifically, reading and math grades for Thomas High school. The scores for the ninth graders appear to have been altered. As a result, the previous analysis must be adjusted by replacing the math and reading scores for the ninth grade students with "NaN" values and the analysis for the district repated.
 
+
 # Results:
 
 ## District summary
@@ -19,6 +20,7 @@ Percent Passing Math moved from 75% to 74%.
 Percent Passing Reading moved from 86% to 85%.
 
 Percent Overall Passing moved from 65% to 64%.
+
 
 ## School Summary
 
@@ -50,7 +52,7 @@ Thomas High School is a medium sized school and no real findings after adding th
 
 ## Score by school type
 
-For the Charter, therefore, the changes were as follows:
+For Charter High School, the changes were as follows:
 
 Average Math scores declined from 83.47 to 83.46.
 
@@ -62,15 +64,16 @@ Percent Passing Reading declined from 96.6% to 93.1%.
 
 Percent Overall Passing decreased from 90.4% to 87.2%.
 
+
 # Summary:
 Reviewing the analysis of the school district metrics after replacing Thomas High School ninth-graders' scores with "NaN" value yielded four notable changes to the district metrics:
 
-## The average math exam score for the district was one-tenth of a percentage point lower.
+A. The average math exam score for the district was one-tenth of a percentage point lower.
 
-## The percentage of students who passed the math exam was lowered by two-tenths of a percentage point.
+B. The percentage of students who passed the math exam was lowered by two-tenths of a percentage point.
 
-## The percentage of students who passed the reading exam was lowered by three-tenths of a percentage point.
+C. The percentage of students who passed the reading exam was lowered by three-tenths of a percentage point.
 
-## The percentage of students who passed both the math and reading exams for the districts was lowered by one-tenth of a percentage point.
+D. The percentage of students who passed both the math and reading exams for the districts was lowered by one-tenth of a percentage point.
 
 
